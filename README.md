@@ -109,7 +109,7 @@ sports-news-classification-indobert/
 ## 👩‍💻 Author
 **Amanda Sugito**
 
-Human Computer Interaction academic project at BINUS University.
+Text Mining academic project at BINUS University.
 
 ## 🔗 Connect with Me
 - LinkedIn: Amanda Sugito | www.linkedin.com/in/amanda-sugito
