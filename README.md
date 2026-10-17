@@ -160,7 +160,7 @@ sports-news-classification-indobert/
 7. Review the evaluation metrics and comparison visualizations.
 
 ## 👩‍💻 Author
-*Amanda Sugito*
+**Amanda Sugito**
 
 Deep Learning academic project at BINUS University.
 
